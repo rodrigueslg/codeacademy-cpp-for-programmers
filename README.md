@@ -1,2 +1,2 @@
-# codeacademy-cpp-for-programmers
-codeacademy cpp for programmers course
+# udacity-cpp-for-programmers
+udacity cpp for programmers course
